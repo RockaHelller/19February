@@ -1,0 +1,36 @@
+.numbers input {
+  outline: none;
+  width: 75%;
+}
+
+.operations button {
+  padding: 4px 60px;
+}
+.operations .operation-first {
+  background-color: rgb(13, 110, 253);
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+.operations .operation-second {
+  background-color: rgb(220, 53, 70);
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+.operations .operation-third {
+  background-color: rgb(24, 135, 84);
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+.operations .operation-fourth {
+  background-color: rgb(254, 192, 7);
+  color: black;
+  border: none;
+  border-radius: 4px;
+}
+
+.result input {
+  width: 40%;
+}/*# sourceMappingURL=style.css.map */
